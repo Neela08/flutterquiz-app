@@ -1,0 +1,96 @@
+[
+    {
+        "id":1,
+        "question":"What JVM stands for",
+        "1":"JAVA variable Manager",
+        "2":"JAVA Virtual Machine",
+        "3":"JAVA Virtual manager",
+        "4":"java variable machine",
+        "answer":"2"
+    },
+    {
+        "id":2,
+        "question":"Whay is multiple inheritance not supported in java",
+        "1":"JAVA supports multiple inheritance",
+        "2":"because of the diamond problem",
+        "3":"uses mixing instead",
+        "4":"for managing memory",
+        "answer":"2"
+    },
+    {
+        "id":3,
+        "question":"What is inheritance",
+        "1":"hiding data",
+        "2":"Reusing methods",
+        "3":"To inherit super class properties in  child class",
+        "4":"recursion",
+        "answer":"3"
+    },
+    {
+        "id":4,
+        "question":"How can an object become serializable",
+        "1":"it is not possible",
+        "2":"A class has to extend serializable",
+        "3":"Every object is serializable ",
+        "4":"when a class or super class extend serializable",
+        "answer":"4"
+    },
+    {
+        "id":5,
+        "question":"Which expression is thrown when java is out of memory",
+        "1":"FullMemoryException",
+        "2":"OutOfMemoryError",
+        "3":"FullStackException",
+        "4":"jOutOfSpaceException",
+        "answer":"2"
+    },
+    {
+        "id":6,
+        "question":"What JVM stands for",
+        "1":"JAVA variable Manager",
+        "2":"JAVA Virtual Machine",
+        "3":"JAVA Virtual manager",
+        "4":"java variable machine",
+        "answer":"2"
+    },
+    {
+        "id":7,
+        "question":"Which expression is thrown when java is out of memory",
+        "1":"FullMemoryException",
+        "2":"OutOfMemoryError",
+        "3":"FullStackException",
+        "4":"jOutOfSpaceException",
+        "answer":"2"
+    },
+    {
+
+        "id":8,
+        "question":"How can an object become serializable",
+        "1":"it is not possible",
+        "2":"A class has to extend serializable",
+        "3":"Every object is serializable ",
+        "4":"when a class or super class extend serializable",
+        "answer":"4"
+    },
+    {
+
+        "id":9,
+        "question":"What JVM stands for",
+        "1":"JAVA variable Manager",
+        "2":"JAVA Virtual Machine",
+        "3":"JAVA Virtual manager",
+        "4":"java variable machine",
+        "answer":"2"
+    },
+    {
+
+        "id":10,
+        "question":"How can an object become serializable",
+        "1":"it is not possible",
+        "2":"A class has to extend serializable",
+        "3":"Every object is serializable ",
+        "4":"when a class or super class extend serializable",
+        "answer":"4"
+    }
+
+]

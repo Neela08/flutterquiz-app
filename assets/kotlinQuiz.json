@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "question":"What is Kotlin",
+        "1":"OOP",
+        "2":"Structured Programming language",
+        "3":"assembly language",
+        "4":"javascript framework",
+        "answer":"1"
+    },
+    {
+        "id":2,
+        "question":"Is Multiple constructor allowed in kotlin",
+        "1":"Yes",
+        "2":"No",
+        "3":"not possible",
+        "4":"Multiple inheritance is allowed",
+        "answer":"1"
+    },
+
+    {
+        "id":3,
+        "question":"What is Kotlin",
+        "1":"OOP",
+        "2":"Structured Programming language",
+        "3":"assembly language",
+        "4":"javascript framework",
+        "answer":"1"
+    },
+    {
+        "id":4,
+        "question":"Is Multiple constructor allowed in kotlin",
+        "1":"Yes",
+        "2":"No",
+        "3":"not possible",
+        "4":"Multiple inheritance is allowed",
+        "answer":"1"
+    },
+
+    {
+        "id":5,
+        "question":"What is Kotlin",
+        "1":"OOP",
+        "2":"Structured Programming language",
+        "3":"assembly language",
+        "4":"javascript framework",
+        "answer":"1"
+    },
+    {
+        "id":6,
+        "question":"Is Multiple constructor allowed in kotlin",
+        "1":"Yes",
+        "2":"No",
+        "3":"not possible",
+        "4":"Multiple inheritance is allowed",
+        "answer":"1"
+    },
+
+    {
+        "id":7,
+        "question":"What is Kotlin",
+        "1":"OOP",
+        "2":"Structured Programming language",
+        "3":"assembly language",
+        "4":"javascript framework",
+        "answer":"1"
+    },
+    {
+        "id":8,
+        "question":"Is Multiple constructor allowed in kotlin",
+        "1":"Yes",
+        "2":"No",
+        "3":"not possible",
+        "4":"Multiple inheritance is allowed",
+        "answer":"1"
+    },
+
+    {
+        "id":9,
+        "question":"What is Kotlin",
+        "1":"OOP",
+        "2":"Structured Programming language",
+        "3":"assembly language",
+        "4":"javascript framework",
+        "answer":"1"
+    },
+    {
+
+        "id":10,
+        "question":"Is Multiple constructor allowed in kotlin",
+        "1":"Yes",
+        "2":"No",
+        "3":"not possible",
+        "4":"Multiple inheritance is allowed",
+        "answer":"1"
+    }
+
+]
